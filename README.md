@@ -3,4 +3,5 @@ Please find my resume attached - it's got all the good stuff, like my qualificat
 For more details check my portfolio and Linkedin:
 
 Portfolio: https://tinyurl.com/3c9znsbc
+
 LinkedIn: https://www.linkedin.com/in/aghadi/

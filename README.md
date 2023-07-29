@@ -1,7 +1,5 @@
-<div id="header" align="center">
-  <div style="width:480px">
-    <iframe allow="fullscreen" frameborder="0" height="270" src="https://giphy.com/embed/16u7Ifl2T4zYfQ932F/video" width="480"></iframe>
-  </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/16u7Ifl2T4zYfQ932F/giphy.gif" width="480" alt="Video Tutorial"/>
 </div>
 
 <div id="badges" align="center">

@@ -18,4 +18,5 @@ When? Grab the cup below & see you on the other side!
 </div>
 
 Stay Caffeinated ☕️☕️
+
 My Fav Coffee: Philtered soul blend, Light honey, Medium cream  (Pro tip: Mint leaves on top)

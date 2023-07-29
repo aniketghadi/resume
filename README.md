@@ -14,7 +14,8 @@ While my resume provides a history of all the good stuff, like my qualifications
 When? Grab the cup below & see you on the other side!
 
 <div align="center">
-  <a href="https://calendly.com/aniketghadi50/15min" target="_blank"><img src="https://media.giphy.com/media/mCmCVbnEJ1s2xN4BYd/giphy.gif" alt="When" width="200" /></a>
+  <a href="https://calendly.com/aniketghadi50/15min" target="_blank"><img src="https://media.giphy.com/media/3ntafDpgp13XZTeNoO/giphy.gif" alt="When" width="200" /></a>
 </div>
 
 Stay Caffeinated ☕️☕️
+My Fav Coffee: Philtered soul blend, Light honey, Medium cream  (Pro tip: Mint leaves on top)

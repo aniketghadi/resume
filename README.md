@@ -2,6 +2,11 @@
   <img src="https://giphy.com/clips/theoffice-the-office-peacock-tv-show-16u7Ifl2T4zYfQ932F" width="200"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/aghadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 While my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? There is considerably more to share, and I hope to arrange a time to meet to learn how to make a positive impact as a Data Engineer given a chance. 
 

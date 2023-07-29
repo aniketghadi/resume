@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/16u7Ifl2T4zYfQ932F/giphy.gif" width="480" alt="Video Tutorial"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ouvSzoMTx6nXN6PiGu/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">

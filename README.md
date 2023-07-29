@@ -8,7 +8,7 @@
   </a>
 </div>
 
-While my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? There is considerably more to share, and I hope to arrange a time to meet to learn how to make a positive impact as a Data Engineer given a chance. 
+While my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? There is considerably more to share, and I hope to arrange a time to meet to learn how to make a positive impact given a chance. 
 
 # Let's have a Coffee Together!
 When? Grab the cup below & see you on the other side!

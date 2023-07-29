@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/clips/theoffice-the-office-peacock-tv-show-16u7Ifl2T4zYfQ932F" width="200"/>
-</div>
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/16u7Ifl2T4zYfQ932F/video" width="480"></iframe></div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aghadi/">
